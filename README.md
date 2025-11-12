@@ -1,8 +1,15 @@
-## Hi there 👋
+## Hi, I'm Jakub
+
+Passonate about Cybersecurity
+Will be majoring in Computer Engineering at Virginia Tech and playing soccer
+
+
+
+
 
 <!--
 **jakubporada/jakubporada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![jakubporada's GitHub stats](https://github-readme-stats.vercel.app/api?username=jakubporada&show_icons=true&theme=radical)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
