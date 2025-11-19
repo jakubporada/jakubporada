@@ -1,7 +1,7 @@
 ## Hi, I'm Jakub
 
-Passonate about Cybersecurity
-Will be majoring in Computer Engineering at Virginia Tech and playing soccer
+### Passonate about Cybersecurity
+### Will be majoring in Computer Engineering at Virginia Tech and playing soccer
 
 
 
